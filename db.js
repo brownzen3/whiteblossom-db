@@ -1,7 +1,7 @@
 // Zen Karambaya - Public - whiteblossom.info
 
 // Last Update
-const currentDate = "24/Aug/2023"
+const currentDate = "29/Aug/2023"
 
 // Example Property Entry
 // ["P_NUMBER", 0 , "LOCATION", "AREA", "INFO", "BUILDINGS", "FOLDER_ID", "PREVIEW_URL"],
@@ -35,6 +35,6 @@ const db_sold = [
 null
 ];
 
-document.getElementById("db-update").innerHTML = "Up to Date (" + currentDate + ")"
+document.getElementById("db-update").innerHTML = "Up to Date (Last Change Published on <b>" + currentDate + "</b>)"
 
 // End of db
