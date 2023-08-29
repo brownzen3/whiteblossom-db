@@ -43,7 +43,7 @@ const db_sold = [
 null
 ];
 
-document.getElementById("db-update").innerHTML = "Up to Date (Last Change Published on <b>" + currentDate + "</b>)"
+document.getElementById("db-update").innerHTML = "Up to Date (Published on <b>" + currentDate + "</b>)"
 
 
 
