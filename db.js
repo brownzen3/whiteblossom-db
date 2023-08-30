@@ -2,6 +2,13 @@
 
 
 
+// WEBSITE CONTROL
+const websiteStatus = 1
+// 1: Normal  /  0: Disabled
+const websiteMessage = "Under Maintainance"
+// (only displayed when websiteStatus = 0)
+
+
 // DATE OF LAST UPDATE
 const currentDate = "29/Aug/2023"
 
