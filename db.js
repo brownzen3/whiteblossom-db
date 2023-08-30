@@ -14,22 +14,7 @@ const websiteMessage = "Under Maintainance"
 const currentDate = "29/Aug/2023"
 
 // DB VERSION
-const databaseVer = 1.1
-
-// PUBLIC MESSAGES
-const scMsg = `
-UNDER ACTIVE DEVELOPMENT (STABLE)
-
-INTERGRATED SERVICES:
-- CLOUDFLARE
-- GOOGLE FONTS
-- GOOGLE DRIVE
-- GOOGLE MAPS
-- FONTAWESOME
-
-EXTERNAL LINKED SERVICES:
-- WHATSAPP
-`
+const databaseVer = "1.2 (s)"
 
 
 
