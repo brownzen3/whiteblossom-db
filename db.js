@@ -3,10 +3,10 @@
 
 
 // WEBSITE CONTROL
-const websiteStatus = 1
+const websiteStatus = 0
 // 1: Normal  /  0: Disabled
 const websiteMessage = "Under Maintainance"
-// (only displayed when websiteStatus = 0)
+// Message follows ""(only displayed when websiteStatus = 0)
 
 
 // DATE OF LAST UPDATE
