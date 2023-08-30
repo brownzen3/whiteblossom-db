@@ -1,5 +1,7 @@
 # Databases for [whiteblossom.info](https://whiteblossom.info)
-_Public JavaScript Databases_
+_Public JavaScript Databases & Website Control_
+<br>
+All information available in this repo is also publicly visible online.
 <br><br>
 
 Designed and Managed by Zen Karambaya
