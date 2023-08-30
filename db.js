@@ -2,10 +2,11 @@
 
 
 
-
 // DATE OF LAST UPDATE
 const currentDate = "29/Aug/2023"
 
+// DB VERSION
+const databaseVer = 1.1
 
 
 
@@ -44,9 +45,3 @@ null
 ];
 
 document.getElementById("db-update").innerHTML = "Up to Date (Published on <b>" + currentDate + "</b>)"
-
-
-
-
-// DB VERSION
-const databaseVer = 1.1
