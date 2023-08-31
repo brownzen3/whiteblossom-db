@@ -1,7 +1,7 @@
 // DATE OF LAST UPDATE
 const currentDate = "31/Aug/2023"
 
-
+errrorlol
 const db_forSale = [
 // Example Property Entry (copy and paste below - do NOT copy the //):
 //["P_NUMBER", 0 , "LOCATION", "AREA", "INFO", "BUILDINGS", "FOLDER_ID", "PREVIEW_URL"],
