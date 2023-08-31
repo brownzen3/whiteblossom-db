@@ -22,7 +22,7 @@ const databaseVer = "1.2 (s)"
 
 // Example Property Entry
 // ["P_NUMBER", 0 , "LOCATION", "AREA", "INFO", "BUILDINGS", "FOLDER_ID", "PREVIEW_URL"],
-// Status indicators: 0-FS, 1-SO, 2-OH, 3-OR
+// Status indicators: 0-For Sale, 1-Sold, 2-On Hold, 3-Offer Received
 
 const db_forSale = [
 ["P-2231", 0 , "Virajpet-Madikeri", "18.5 Acres", "Suitable for a resort/homestay", "Undeveloped Land", "1_utUHljVTMMiRP18O0du-VZ9hhIFywmx", "https://lh3.googleusercontent.com/drive-viewer/AITFw-xHPbcwTtdnviDlGZPFfRCymP2DNTJ6yLAY9urYJHv1xh6YBNyYzJbaFF9TYh5pqdUU_qtXRG72s_m1L9QOjlo37K--=s1600"],
@@ -46,6 +46,10 @@ const db_forSale = [
 ["P-2250", 0 , "Near Virajpet", "12 + 12 Acres", "See Images", "A-Z Facilities", "1KfwhC3wE_7eFXch2lrS1zZ6OmheMPQHR", "https://lh3.googleusercontent.com/drive-viewer/AITFw-wggkMMoe2jDR51znDv9Bs13Oza8mhA1Vv9ltN3Qf2mpGNoxtgsI8mm-SuPB22AdgOlBWXY9NnxEE9EJl4HLG0W7yiK5w=s1600"],
 ["P-2251", 0 , "Virajpet", "3 Acres", "Near Coorg Golf Club", "Luxury Villa", "1LeD5cq2z_O-KyBmKMtb-E6PWwf06dcbL", "https://lh3.googleusercontent.com/drive-viewer/AITFw-zxg4PcrRX7j_jTuhXE4rjauy1PlQrF-AxKroHuvvbZmHLu4dY4cxnzanOQHu3fNevm3rSo9IV2NaHoMRdifj5iFRg2hg=s1600"],
 ["P-2252", 0 , "South Coorg", "12700 Sq Ft", "Contact us for more info", "Furnished", "11Stj8KlJ2FqviokSW_BUbQGxIZM2qm1e", "https://lh3.googleusercontent.com/drive-viewer/AITFw-xymVQVHSTQO7nJknFVma63HRyj-8yH_FSZ2DnEQeH9JiRzbZCgbQZawgiP-SbK-QlJtiHTCrxlEirpH6k_GSHXJeonDQ=s2560"],
+// PUT NEW PROPERTIES HERE:
+["P-2253", 0 , "Virajpet", "12 Acres", "test property", "house", "10wGWR9Far2dx-b24owpJCGhWnEiWCySD", "PREVIEW_URL"],
+
+// DO NOT EDIT BELOW THIS LINE
 ];
 
 const db_sold = [
