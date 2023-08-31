@@ -3,7 +3,8 @@ _Public JavaScript Databases & Website Control_
 <br>
 All information available in this repo is also publicly visible online.
 <br><br>
-**How To Upload A New Property**
+**How To Upload A New Property**<br>
+Before opening the database, make sure that you have uploaded all of the property's photos into a new folder in [Google Drive](drive.google.com). The folder name should be something like `P2260` (the next available number).<br>Once done, follow these steps:
 1) Click on `db.js` to open the database
 2) Select the pencil icon (✏️) to edit the db
 3) Scroll to the `Example Property Entry` and copy the template, which looks like `["P_NUMBER", 0 ... "PREVIEW_URL"],`
@@ -22,3 +23,4 @@ _(NOTE: Do not copy the // at the start of the line)_
 10) Now, double check all of the property info, then click on `Commit Changes...` in the top-right corner.
 11) Add any notes under the description (this will NOT be shown on the website) and then select `Commit changes`
 
+**If you require any clarification, send me a message, or call me.**
