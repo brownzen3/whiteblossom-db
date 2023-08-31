@@ -7,7 +7,6 @@ const db_forSale = [
 //["P_NUMBER", 0 , "LOCATION", "AREA", "INFO", "BUILDINGS", "FOLDER_ID", "PREVIEW_URL"],
   
 // PUT NEW PROPERTIES HERE:
-["P-2253", 0 , "8km from Bittangala", "9 acers", "Non Culivated", "No infa", "1PNdb2oZlXYxxrPw6Oh-OHXVZVHx_NMcM", "https://lh3.googleusercontent.com/drive-viewer/AITFw-z4hBbpWQ2DKDo-jIRVshyylT1WFsmSKJ15p0vUDYtyjWsQRXMGyvMZpABz8zuYAkbraLhLoMEqZQvmvNTmKrGzd0ZncA=s1600"],
 
 
 
