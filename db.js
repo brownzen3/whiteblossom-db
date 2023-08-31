@@ -14,7 +14,7 @@ const db_forSale = [
 // DO NOT EDIT BELOW THIS LINE ----------------------------------------
 
   
-["P-2231", 0 , "Virajpet-Madikeri", "18.5 Acres", "Suitable for a resort/homestay", "Undeveloped Land", "1_utUHljVTMMiRP18O0du-VZ9hhIFywmx", "https://lh3.googleusercontent.com/drive-viewer/AITFw-yThk4HbpkZX77I6kDcPD9KPL6dpkP7bbVzk9MnA8SWfGKmZxfISK7r1jAUuxLzyYRysF3KfDpGsUOdDgMxNIbRLQlgXQ=s1600"],
+["P-2231", 0 , "Virajpet-Madikeri", "18.5 Acres CT", "Suitable for a resort/homestay", "Undeveloped Land", "1_utUHljVTMMiRP18O0du-VZ9hhIFywmx", "https://lh3.googleusercontent.com/drive-viewer/AITFw-yThk4HbpkZX77I6kDcPD9KPL6dpkP7bbVzk9MnA8SWfGKmZxfISK7r1jAUuxLzyYRysF3KfDpGsUOdDgMxNIbRLQlgXQ=s1600"],
 ["P-2232", 0 , "Virajpet-Gonikoppa", "12 Acres", "2 Public Access Roads", "Undeveloped Land", "10CsNs_1LiaKob_XDShyXROHpQisXFH18", "https://lh3.googleusercontent.com/drive-viewer/AITFw-wnWmRgP02jcvOJ5MDIS-MLIbdwuhSrUqEN05gqU5pBc75Eb7-yHvu8nPrhDjVKFltq6axLjmI-8VxT4AVMYuyJ4uUyqQ=s1600"],
 ["P-2233", 0 , "Virajpet-Gonikoppa", "14 Acres", "Small Lake", "Undeveloped Land", "1XfTFf-uzSrLDB9q6CFj5eeIX-PlfiSZi", "https://lh3.googleusercontent.com/drive-viewer/AITFw-wKcS4IlYGbOlgY7cF1X_TgYqlpT_70ej-0ULwlCyyN9WEv9DfUsy8MFqjKQp65Z_OO08zUlwHeo0mBzcOZXFhrwL_0Rw=s1600"],
 ["P-2234", 0 , "Near Kutta", "16 Acres", "Multiple Access Roads", "Running Homestay", "14cTyV10V2yqQDd6LqAHvGEj3bQX1fBvH", "https://lh3.googleusercontent.com/drive-viewer/AITFw-yS4rwgRCFO614elY3k2_aV3dJbc69MwPqLrzSjMpgVdWr9C6pXli9goF3HX3EOClMP8xiQ-OGAP1-8Wrc1-Hvn26pZAA=s1600"],
