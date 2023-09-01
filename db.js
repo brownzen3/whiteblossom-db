@@ -37,12 +37,7 @@ const db_forSale = [
 ["P-2252", 0 , "South Coorg", "12700 Sq Ft", "Contact us for more info", "Furnished", "11Stj8KlJ2FqviokSW_BUbQGxIZM2qm1e", "https://lh3.googleusercontent.com/drive-viewer/AITFw-xymVQVHSTQO7nJknFVma63HRyj-8yH_FSZ2DnEQeH9JiRzbZCgbQZawgiP-SbK-QlJtiHTCrxlEirpH6k_GSHXJeonDQ=s2560"],
 ];
 
-// WEBSITE CONTROL
-const websiteStatus = 1
-// 1: Normal  /  0: Disabled
-const websiteMessage = "Under Scheduled Maintainance"
-// Message displayed under "Website Access Temporarily Suspended" heading
-// (only displayed when websiteStatus = 0)
+
 
 // DB VERSION
 const databaseVer = "1.2 (s)"
