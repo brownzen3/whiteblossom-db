@@ -19,7 +19,7 @@ _(NOTE: Do not copy the // at the start of the line)_
 
 4) Paste the template at the bottom of the db (in between `PUT NEW PROPERTIES HERE:` and `DO NOT EDIT BELOW THIS LINE`).
 
-5) Fill in all of the fields, making sure that the text is inside of the `"` (i.e. `"Virajpet"`)
+5) Fill in all of the fields, making sure that the text is inside of the `""` (i.e. `"Virajpet"`)
    * `P_NUMBER`: The property number (i.e. P-2260)
    * `0`: The state of the property (0 indicates 'For Sale')
    * `LOCATION`, `AREA`, `INFO`, and `BUILDINGS` appear in the property listing
