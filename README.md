@@ -5,7 +5,7 @@ _Public JavaScript Databases & Website Control_
 All information available in this repo is also publicly visible online.
 <br><br>
 
-##How To Upload A New Property _(with db v1.3+)_ :<br><br>
+## How To Upload A New Property _(with db v1.3+)_ :<br><br>
 **NB** - Before opening the database, make sure that you have uploaded all of the property's photos into a new folder in [Google Drive](drive.google.com). The folder name should be something like `P2260` (the next available number).<br><br>
 Once done, follow these twelve steps:
 
