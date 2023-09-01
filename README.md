@@ -7,7 +7,7 @@ All information available in this repo is also publicly visible online.
 
 **How To Upload A New Property** _(with db v1.3+)_:<br><br>
 0) Before opening the database, make sure that you have uploaded all of the property's photos into a new folder in [Google Drive](drive.google.com). The folder name should be something like `P2260` (the next available number).<br>Once done, follow these steps:
-<br>
+
 1) Click on `db.js` to open the database.
 
 2) Select the pencil icon (✏️) to edit the db.
