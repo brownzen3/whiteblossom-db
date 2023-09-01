@@ -17,7 +17,7 @@ Once done, follow these twelve steps:
 3) Scroll to the `Example Property Entry` and copy the template, which looks like `["P_NUMBER", 0 ... "PREVIEW_URL"],`.
 _(NOTE: Do not copy the // at the start of the line)_
 
-4) Paste the template at the bottom of the db (in between `PUT NEW PROPERTIES HERE:` and `DO NOT EDIT BELOW THIS LINE`).
+4) Paste the template at the top of the array (in between `PUT NEW PROPERTIES HERE:` and `DO NOT EDIT BELOW THIS LINE`).
 
 5) Fill in all of the fields, making sure that the text is inside of the `""` (i.e. `"Virajpet"`)
    * `P_NUMBER`: The property number (i.e. P-2260)
