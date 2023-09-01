@@ -22,6 +22,4 @@ _(NOTE: Do not copy the // at the start of the line)_
 9) Scroll to the very top of the file, and change the `DATE OF LAST UPDATE` to the current date.
 10) Now, double check all of the property info, then click on `Commit Changes...` in the top-right corner.
 11) Add any notes under the description (this will NOT be shown on the website) and then select `Commit changes`
-12) Done! Changes will be reflected on the website between 2-5 minutes
-
-**If you require any clarification, send me a message, or call me.**
+12) Done! Changes will take **upto 4 hours** reflected on the website
