@@ -1,5 +1,5 @@
 // WEBSITE CONTROL
-const websiteStatus = 0
+const websiteStatus = 1
 // 1: Normal  /  0: Disabled
 
 const websiteMessage = "Testing Cache Configuration #2"
