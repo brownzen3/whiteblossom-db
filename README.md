@@ -6,7 +6,6 @@ All information available in this repo is also publicly visible online.
 <br><br>
 
 ## How To Upload A New Property
-_(works for db v1.3+)_<br><br>
 
 **NB** - Before opening the database, make sure that you have uploaded all of the property's photos into a new folder in [Google Drive](drive.google.com). The folder name should be something like `P2260` (the next available number).<br><br>
 Once done, follow these twelve steps:
@@ -39,4 +38,6 @@ _(NOTE: Do not copy the // at the start of the line)_
 11) Add any notes under the description (this will NOT be shown on the website) and then select `Commit changes`.
 
 12) Done! Changes will take **upto 10 mins** to be reflected on the website. If it takes longer, clear your browser's cache.
-<br>
+<br><br>
+
+_These instructions are for db v1.3+_
