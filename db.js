@@ -40,7 +40,7 @@ const db_forSale = [
 
 
 // DB VERSION
-const databaseVer = "1.2 (s)"
+const databaseVer = "1.3 (s)"
 
 const db_sold = [
 null
