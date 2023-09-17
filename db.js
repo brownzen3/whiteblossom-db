@@ -7,10 +7,10 @@ const db_forSale = [
 //["P_NUMBER", 0 , "LOCATION", "AREA", "INFO", "BUILDINGS", "FOLDER_ID", "PREVIEW_URL"],
   
 // PUT NEW PROPERTIES HERE:
-
+["P-2257", 0 , "5km from NH", "0.60 cents", "River Side", "Non Cultivated", "1JtkjpD9uMTKNsFobHkTGX2Txn9gwCzEk", "https://drive.google.com/file/d/1Jvl5fNEilgPiojkFjtHFlRhI1khZFM-q/view?usp=sharing"],
 ["P-2254", 0 , "Virajpet-Gonikoppa Road", "12 Acres", "Plantation with a nice view", "coffee plantation", "1KX4O3i3slAj1DSLRu-SYj7Aa_DLiSBCo", "https://lh3.googleusercontent.com/drive-viewer/AITFw-zVJDLYM-R4MMhQLL7HQUXZE10t-p5zR0bH1xaMnb-4O-dYkQ6lUafvHUgZBDUuaC7d6Mk8Ec5NK5nrprjV8h9SFEGtBQ=s1600"],
 ["P-2255", 0 , "5KM from gonikoppa", "17  Acers", "Ato Z facilities", "labour line", "1le68acyNKLSvQr0apEQvh94kliCUqh7P", "https://lh3.googleusercontent.com/drive-viewer/AITFw-zMTkA-c_TsYhWtB3i4R8fqpQLbzAQuoA5E7YSUIaqIqFY6VPmOTINnqJMxAclh-RzaTMZwSGpcdpAM9HpPLWafVWbzhw=s1600"],
-["P-2256", 0 , "1KM fron NH", "0.06 Cents", "River side", "Under developed", "1J_kvD9e8scgo2WX4pJITBNj2dutm3C_O", "https://lh3.googleusercontent.com/drive-viewer/AITFw-xiF1UQU2VzU87R8gN_pK_amdPQsZm3DD-BL9s3_JN_wUb1IjzwWwxCr769nWPJldezsFgwoMVlD0bfaMm6r-RkMsS1=s1600 "],                                 
+["P-2256", 0 , "1KM fron NH", "0.60 Cents", "River side", "Under developed", "1J_kvD9e8scgo2WX4pJITBNj2dutm3C_O", "https://lh3.googleusercontent.com/drive-viewer/AITFw-xvTKhWq4NaasuuZP-8CUQlsNpxtdU5weYQ1cJt4YugEfqxkS_jZnWrFJqFl49FrCJCwezcG1abYPPY45PclkSaNlYigQ=s1600 "],                                 
  // DO NOT EDIT BELOW THIS LINE ----------------------------------------
 
   
