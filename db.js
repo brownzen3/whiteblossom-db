@@ -8,7 +8,7 @@ const db_forSale = [
   
 // PUT NEW PROPERTIES HERE:
 
-
+["P-2254", 0 , "Virajpet-Gonikoppa Road", "12", "Plantation with a nice view", "coffee plantation", "1KX4O3i3slAj1DSLRu-SYj7Aa_DLiSBCo", "https://lh3.googleusercontent.com/drive-viewer/AITFw-zVJDLYM-R4MMhQLL7HQUXZE10t-p5zR0bH1xaMnb-4O-dYkQ6lUafvHUgZBDUuaC7d6Mk8Ec5NK5nrprjV8h9SFEGtBQ=s1600"],
 
 
 // DO NOT EDIT BELOW THIS LINE ----------------------------------------
