@@ -1,5 +1,5 @@
 // DATE OF LAST UPDATE
-const currentDate = "31/Aug/2023"
+const currentDate = "17/Sep/2023"
 
 
 const db_forSale = [
