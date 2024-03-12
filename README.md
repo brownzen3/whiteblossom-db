@@ -2,7 +2,7 @@
 _Public JavaScript Databases & Website Control_
 <br>
 
-All information available in this repo is also publicly visible online.
+NOTICE: All information within this repository is public. Upload data with caution.
 <br><br>
 
 ## How To Upload A New Property
