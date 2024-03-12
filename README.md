@@ -39,5 +39,3 @@ _(NOTE: Do not copy the // at the start of the line)_
 
 12) Done! Changes will take **upto 10 mins** to be reflected on the website. If it takes longer, clear your browser's cache.
 <br><br>
-
-_These instructions are for db v1.3+_
