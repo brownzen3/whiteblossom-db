@@ -1,5 +1,5 @@
 // DATE OF LAST UPDATE
-const currentDate = "17/Sep/2023"
+const currentDate = "July 2024"
 
 
 const db_forSale = [
@@ -47,4 +47,4 @@ const db_sold = [
 null
 ];
 
-document.getElementById("db-update").innerHTML = "Up to Date (Published on <b>" + currentDate + "</b>)"
+document.getElementById("db-update").innerHTML = "Published <b>" + currentDate + "</b>"
