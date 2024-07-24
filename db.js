@@ -47,4 +47,4 @@ const db_sold = [
 null
 ];
 
-document.getElementById("db-update").innerHTML = "Published <b>" + currentDate + "</b>"
+document.getElementById("db-update").innerHTML = "Published " + currentDate
