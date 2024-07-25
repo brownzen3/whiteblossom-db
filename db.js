@@ -49,4 +49,4 @@ const db_sold = [
 
 // (do not modify)
 const databaseVer = "2.0.0"
-document.getElementById("db-update").innerHTML = `Published <em>{currentDate}</em>`
+document.getElementById("db-update").innerHTML = `Published <em>${currentDate}</em>`
