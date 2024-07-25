@@ -3,18 +3,16 @@ const currentDate = "July 2024"
 
 
 const db_forSale = [
-// Example Property Entry (copy and paste below - do NOT copy the //):
-//["P_NUMBER", 0 , "LOCATION", "AREA", "INFO", "BUILDINGS", "FOLDER_ID", "PREVIEW_URL"],
-  
-// PUT NEW PROPERTIES HERE:
+
+// 0 - For Sale,  1 - Sold,  2 - On Hold,  3 - Offer Received
+
+// ["P_NUMBER", 0 , "LOCATION", "AREA", "INFO", "BUILDINGS", "FOLDER_ID", "PREVIEW_URL"],
+
 ["P-2257", 0 , "5km from NH", "0.60 Cents", "River Side", "Non Cultivated", "1JtkjpD9uMTKNsFobHkTGX2Txn9gwCzEk", "https://drive.google.com/file/d/1Jvl5fNEilgPiojkFjtHFlRhI1khZFM-q/view?usp=sharing"],
 ["P-2254", 0 , "Virajpet-Gonikoppa Road", "12 Acres", "Plantation with a nice view", "coffee plantation", "1KX4O3i3slAj1DSLRu-SYj7Aa_DLiSBCo", "https://lh3.googleusercontent.com/drive-viewer/AITFw-zVJDLYM-R4MMhQLL7HQUXZE10t-p5zR0bH1xaMnb-4O-dYkQ6lUafvHUgZBDUuaC7d6Mk8Ec5NK5nrprjV8h9SFEGtBQ=s1600"],
 ["P-2255", 0 , "5KM from gonikoppa", "17  Acers", "A to Z facilities", "labour line", "1le68acyNKLSvQr0apEQvh94kliCUqh7P", "https://lh3.googleusercontent.com/drive-viewer/AITFw-zMTkA-c_TsYhWtB3i4R8fqpQLbzAQuoA5E7YSUIaqIqFY6VPmOTINnqJMxAclh-RzaTMZwSGpcdpAM9HpPLWafVWbzhw=s1600"],
 ["P-2256", 0 , "1KM fron NH", "0.60 Cents", "River side", "Under developed", "1J_kvD9e8scgo2WX4pJITBNj2dutm3C_O", "https://lh3.googleusercontent.com/drive-viewer/AITFw-xvTKhWq4NaasuuZP-8CUQlsNpxtdU5weYQ1cJt4YugEfqxkS_jZnWrFJqFl49FrCJCwezcG1abYPPY45PclkSaNlYigQ=s1600 "],                                  
 
-  
-
-// Old properties (still visible online):
 ["P-2231", 0 , "Virajpet-Madikeri", "18.5 Acres", "Suitable for a resort/homestay", "Undeveloped Land", "1_utUHljVTMMiRP18O0du-VZ9hhIFywmx", "https://lh3.googleusercontent.com/drive-viewer/AITFw-yThk4HbpkZX77I6kDcPD9KPL6dpkP7bbVzk9MnA8SWfGKmZxfISK7r1jAUuxLzyYRysF3KfDpGsUOdDgMxNIbRLQlgXQ=s1600"],
 ["P-2232", 0 , "Virajpet-Gonikoppa", "12 Acres", "2 Public Access Roads", "Undeveloped Land", "10CsNs_1LiaKob_XDShyXROHpQisXFH18", "https://lh3.googleusercontent.com/drive-viewer/AITFw-wnWmRgP02jcvOJ5MDIS-MLIbdwuhSrUqEN05gqU5pBc75Eb7-yHvu8nPrhDjVKFltq6axLjmI-8VxT4AVMYuyJ4uUyqQ=s1600"],
 ["P-2233", 0 , "Virajpet-Gonikoppa", "14 Acres", "Small Lake", "Undeveloped Land", "1XfTFf-uzSrLDB9q6CFj5eeIX-PlfiSZi", "https://lh3.googleusercontent.com/drive-viewer/AITFw-wKcS4IlYGbOlgY7cF1X_TgYqlpT_70ej-0ULwlCyyN9WEv9DfUsy8MFqjKQp65Z_OO08zUlwHeo0mBzcOZXFhrwL_0Rw=s1600"],
