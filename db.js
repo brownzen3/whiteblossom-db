@@ -1,5 +1,6 @@
 ////// DATE OF LAST UPDATE //
-const currentDate = "July 2024"
+const currentDate = "August, 2024"
+
 
 
 
@@ -14,7 +15,7 @@ const db_forSale = [
   ["P-2255",      0, "5km from Gonikoppa",      "17  Acres",                "A to Z facilities",        "Labour Line",      "1le68acyNKLSvQr0apEQvh94kliCUqh7P", "1G_J5ZNIcicLWkCV6tpSNBQvbXYZSeLD0"],
   ["P-2254",      0, "Virajpet-Gonikoppa Road", "12 Acres",                 "Coffee Plantation",        "see image",        "1KX4O3i3slAj1DSLRu-SYj7Aa_DLiSBCo", "1FlKu2M2F7VpioivJzh3RnyjiB9WxNbht"],
   ["P-2252",      0, "South Coorg",             "12700 Sq Ft",              "Contact us for info",      "Furnished",        "11Stj8KlJ2FqviokSW_BUbQGxIZM2qm1e", "1QhxFZyY8-3O0oPCF8bJhK4aF5kG-tkVL"],
-  ["P-2251",      0, "Virajpet",                "3 Acres",                  "Near Coorg Golf Club",     "Luxury Villa",     "1LeD5cq2z_O-KyBmKMtb-E6PWwf06dcbL", "1LQ_H5jJvaBjNPGW9O"],
+  ["P-2251",      0, "Virajpet",                "3 Acres",                  "Near Coorg Golf Club",     "Luxury Villa",     "1LeD5cq2z_O-KyBmKMtb-E6PWwf06dcbL", "1LQ_H5jJvaBjNPGW9Ongk41ivZLTZzfV9"],
   ["P-2250",      0, "Near Virajpet",           "12 + 12 Acres",            "see images",               "A-Z Facilities",   "1KfwhC3wE_7eFXch2lrS1zZ6OmheMPQHR", "1KgTruESP8sibrQZECVjZ80I0_tlNt2wd"],
   ["P-2249",      0, "Kakkabe",                 "27 Acres",                 "Adjacent to River",        "Undeveloped Land", "1K-sXpIJdPaVu1fXjI0sTzfx_QYBWun5S", "1K8KjKzp_R7Ji8KJC41qYwr4pzzD7S3Yo"],
   ["P-2248",      0, "North Coorg",             "125 Acres",                "see images",               "A-Z Facilities",   "1JCWDIr0dv4r68XcPLziUEDVvMml513kB", "1JrTSn9_3d0p6WCsvNnmSCNtWYULLlwe6"],
@@ -38,7 +39,6 @@ const db_forSale = [
 ];
 
 
-
 ////// MORE PROPERTIES (visible under 'more') //
 const db_sold = [
   null
@@ -46,6 +46,7 @@ const db_sold = [
 
 
 
+
 // (do not modify)
 const databaseVer = "2.0.0"
-document.getElementById("db-update").innerHTML = "Published " + currentDate
+document.getElementById("db-update").innerHTML = `Published <em>{currentDate}</em>`
