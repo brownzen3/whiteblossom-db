@@ -7,10 +7,11 @@ const currentDate = "August, 2024"
 ////// PROPERTIES //
 const db_forSale = [
 
-// STATUS:  0/For Sale,  1/Sold,  2/On Hold,  3/Offer Received
+// STATUS:  0 = For Sale,  1 = Sold,  2 = On Hold,  3 = Offer Received
 
-//["P_0000",      0, "LOCATION",                "AREA",                     "INFO",                     "BUILDINGS",        "FOLDER_ID________________________", "PREVIEW_IMG_ID___________________"],
-
+//["P-0000",      0, "LOCATION",                "AREA",                     "INFO",                     "BUILDINGS",        "FOLDER_ID________________________", "PREVIEW_IMG_ID___________________"],
+  
+  
   ["P-2256",      0, "1km fron NH",             "0.6 Cents",                "Adjacent to River",        "Undeveloped Land", "1J_kvD9e8scgo2WX4pJITBNj2dutm3C_O", "1JggqnRyAxXezzhc14imLtEXNF-ZcdHaA"],
   ["P-2255",      0, "5km from Gonikoppa",      "17  Acres",                "A to Z facilities",        "Labour Line",      "1le68acyNKLSvQr0apEQvh94kliCUqh7P", "1G_J5ZNIcicLWkCV6tpSNBQvbXYZSeLD0"],
   ["P-2254",      0, "Virajpet-Gonikoppa Road", "12 Acres",                 "Coffee Plantation",        "see image",        "1KX4O3i3slAj1DSLRu-SYj7Aa_DLiSBCo", "1FlKu2M2F7VpioivJzh3RnyjiB9WxNbht"],
