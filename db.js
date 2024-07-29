@@ -13,7 +13,7 @@ const db_forSale = [
   
   
   ["P-2262",      0, "10km from Virajpet",      "5 Acres",                  "1km from Main Bus Road",   "Uncultivated",     "113JM-mTH6YBF6KM-TiVKCe_73z6OWk5n", "11N9hZBGy7XsaX2hN6l61lDB_Gb9ex3ZL"],
-  ["P-2260",      0, "South Coorg",             "6 Acres",                  "Coffee & Areca"            "Undeveloped Land", "10GGzXNZviUyTRlkf8B4VsNvazOGDTm7m", "10lDfHyOSL-goKqok8duP0CJonBAbrkXG"],
+  ["P-2260",      0, "South Coorg",             "6 Acres",                  "Coffee & Areca",           "Undeveloped Land", "10GGzXNZviUyTRlkf8B4VsNvazOGDTm7m", "10lDfHyOSL-goKqok8duP0CJonBAbrkXG"],
   ["P-2259",      0, "3km from Virajpet",       "3.5 Acres",                "Coffee Plantation",        "Undeveloped Land", "1-kTMUzrEqUMAjv5wyudvdy2Zq__d2Gt3", "10-zxfHQcUgTegOYE0GQPjL_195xp9Vrr"],
   ["P-2256",      0, "1km fron NH",             "0.6 Cents",                "Adjacent to River",        "Undeveloped Land", "1J_kvD9e8scgo2WX4pJITBNj2dutm3C_O", "1JggqnRyAxXezzhc14imLtEXNF-ZcdHaA"],
   ["P-2252",      0, "South Coorg",             "12700 Sq Ft",              "Contact us for info",      "Furnished",        "11Stj8KlJ2FqviokSW_BUbQGxIZM2qm1e", "1QhxFZyY8-3O0oPCF8bJhK4aF5kG-tkVL"],
