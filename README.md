@@ -2,13 +2,20 @@
 ⚠ _Information within this repository is public - upload data with caution._
 <br><br>
 
-## Upload A New Property
 
-0) Before opening the database, upload all of the property's photos into a new folder in [Google Drive](drive.google.com). Name the folder `P`, followed by the next available 4-digit number (i.e. `P2260`).
+## Uploading an new propery
 
-Then, follow these ten steps:
+### Video Tutorial
+https://github.com/user-attachments/assets/1237e11f-ea98-4ccd-bb08-63163855ddab
 
-1) Open `db.js` (above).
+
+### Instructions
+
+Before opening the database, upload all of the property's photos into a new folder in [Google Drive](drive.google.com). Name the folder `P`, followed by the next available 4-digit number (i.e. `P2260`).
+
+Then, follow these **ten steps**:
+
+1) Open `db.js` (located above).
 
 2) Select the pencil icon (top-right corner) to edit the file.
 
@@ -32,5 +39,8 @@ Then, follow these ten steps:
 
 10) Include the current month in the commit message, then click `Commit changes`.
 
-_Changes will take **upto 10 mins** to be reflected on the website._
+### Note
+
+_Changes will take **around 10 mins** to be published onto the [website](https://whiteblossom.info/?select=portfolio)._
+
 <br><br>
