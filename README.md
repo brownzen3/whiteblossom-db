@@ -1,15 +1,25 @@
 # Property Database for [whiteblossom.info](https://whiteblossom.info)
 ⚠ _Information within this repository is public - upload data with caution._
-<br><br>
+<br><br><br>
 
 
 ## Uploading an new propery
 
 ### Video Tutorial
+
+Setup:
+* Open a new tab and select `WB • GitHub` from the favourites bar.
+* Open another new tab and select `WB • Google Drive` from the favourites bar.
+* Open the Google Drive app on your phone.
+
+Then, follow the video instructions:
+  
 https://github.com/user-attachments/assets/1237e11f-ea98-4ccd-bb08-63163855ddab
 
+<br>
 
-### Instructions
+### Written Instructions
+_(These are the same instructions as in the video)_
 
 Before opening the database, upload all of the property's photos into a new folder in [Google Drive](drive.google.com). Name the folder `P`, followed by the next available 4-digit number (i.e. `P2260`).
 
