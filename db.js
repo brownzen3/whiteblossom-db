@@ -12,8 +12,10 @@ const db_forSale = [
 //["P-0000",      0, "LOCATION",                "AREA",                     "INFO",                     "BUILDINGS",        "FOLDER_ID________________________", "PREVIEW_IMG_ID___________________"],
   
   
+  ["P-2262",      0, "10km from Virajpet",      "5 Acres",                  "1km from Main Bus Road",   "Uncultivated",     "113JM-mTH6YBF6KM-TiVKCe_73z6OWk5n", "11N9hZBGy7XsaX2hN6l61lDB_Gb9ex3ZL"],
+  ["P-2260",      0, "South Coorg",             "6 Acres",                  "Coffee & Areca"            "Undeveloped Land", "10GGzXNZviUyTRlkf8B4VsNvazOGDTm7m", "10lDfHyOSL-goKqok8duP0CJonBAbrkXG"],
+  ["P-2259",      0, "3km from Virajpet",       "3.5 Acres",                "Coffee Plantation",        "Undeveloped Land", "1-kTMUzrEqUMAjv5wyudvdy2Zq__d2Gt3", "10-zxfHQcUgTegOYE0GQPjL_195xp9Vrr"],
   ["P-2256",      0, "1km fron NH",             "0.6 Cents",                "Adjacent to River",        "Undeveloped Land", "1J_kvD9e8scgo2WX4pJITBNj2dutm3C_O", "1JggqnRyAxXezzhc14imLtEXNF-ZcdHaA"],
-  ["P-2255",      1, "5km from Gonikoppa",      "17  Acres",                "A to Z facilities",        "Labour Line",      "1le68acyNKLSvQr0apEQvh94kliCUqh7P", "1G_J5ZNIcicLWkCV6tpSNBQvbXYZSeLD0"],
   ["P-2252",      0, "South Coorg",             "12700 Sq Ft",              "Contact us for info",      "Furnished",        "11Stj8KlJ2FqviokSW_BUbQGxIZM2qm1e", "1QhxFZyY8-3O0oPCF8bJhK4aF5kG-tkVL"],
   ["P-2251",      0, "Virajpet",                "3 Acres",                  "Near Coorg Golf Club",     "Luxury Villa",     "1LeD5cq2z_O-KyBmKMtb-E6PWwf06dcbL", "1LQ_H5jJvaBjNPGW9Ongk41ivZLTZzfV9"],
   ["P-2250",      0, "Near Virajpet",           "12 + 12 Acres",            "see images",               "A-Z Facilities",   "1KfwhC3wE_7eFXch2lrS1zZ6OmheMPQHR", "1KgTruESP8sibrQZECVjZ80I0_tlNt2wd"],
@@ -37,6 +39,7 @@ const db_forSale = [
 
 ////// MORE PROPERTIES (visible under 'more') //
 const db_sold = [
+  ["P-2255",      1, "5km from Gonikoppa",      "17  Acres",                "A to Z facilities",        "Labour Line",      "1le68acyNKLSvQr0apEQvh94kliCUqh7P", "1G_J5ZNIcicLWkCV6tpSNBQvbXYZSeLD0"],
   ["P-2249",      1, "Kakkabe",                 "27 Acres",                 "Adjacent to River",        "Undeveloped Land", "1K-sXpIJdPaVu1fXjI0sTzfx_QYBWun5S", "1K8KjKzp_R7Ji8KJC41qYwr4pzzD7S3Yo"],
   ["P-2236",      2, "Virajpet-Murnad",         "14 Acres",                 "Adjacent to River, Gated", "Undeveloped Land", "1InAOSXRqRxTMdUO_y9CvjpmR1mo_SbxJ", "1WXR1RmGtr8DoFnBFvze63z4qstQUOSJr"],
 ];
