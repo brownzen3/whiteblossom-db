@@ -7,7 +7,8 @@ const currentDate = "August, 2024"
 const db_forSale = [
 
 //["P-0000",      0, "LOCATION",                "AREA",                     "INFO",                     "BUILDINGS",                         "FOLDER_ID________________________", "PREVIEW_IMG_ID___________________"],
-  
+
+  ["P-2271",      0, "North Coorg",                "14 Acers",                     "Cultivated with hill top view",                     "No infracture",                         "14VEnfMeopFdo-pmP_AB1ZaUISszADwqj", "14lgyAyB7f5lA5YnOcJ1dRHA2bfqxTy5M"],
   ["P-2270",      0, "7km from Ponnempet",      "6 Acres",                  "Coffee & Areca",           "Tiled House",                       "1-4BhrZ8Du1zAcAgo0uMVhAm63KRVVcML", "1Ez-LXky45UnRg2na-nXF5PEokyBl3SKb"],
   ["P-2268",      0, "Near Bittangala",         "9 Acres",                  "Tabletop Location",        "2 Bed House",                       "1-3WNcPoDI2AljUJ9Dk_3trmD_8uc7zmM", "1-McAFIt7awUpLV1SQGhlTn2uNK8cjyse"],
   ["P-2266",      0, "South Coorg",             "6 Acres",                  "Adjacent to river",        "No infrastructure",                 "1zG-ZgY7e4PlY5jbYKAj3UihoQY87FsZK", "1zMDP6yt47kjQ8QpW9pfSODjo74bbMQOU"],
