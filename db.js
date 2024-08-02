@@ -11,8 +11,8 @@ const db_forSale = [
 // Copy this example:
 //["P-0000",      0, "LOCATION",                "AREA",                     "INFO",                     "BUILDINGS",                         "FOLDER_ID________________________", "PREVIEW_IMG_ID___________________"],
 
-  ["P-2275",      0, "1 KM from virajpet town",                "plots 800,1200,2400 Sq Ft",                     "Ready for registration",                     "Direct acess from the main road",                         "1t7JpVk_-6W3bQOj-ap3Gz8NZJXoRIHVN", "1fVrlF50jxiWo1TCS7n3T_ofKw39H8KXg"]
-
+  ["P-2276",      0, "Noerth coorg Naer to Napokal",                "18 acers",                     "Coffee plantation",                     "House with Labour Line & River adjecent to the estate",                         "1Cx3HZNv7NzXNnSNVibkLz0lAjAactNd7", "17dWlTGkUjUxvU_H4PJAO8mWiR_M7oqC2"],	
+  ["P-2275",      0, "1 KM from virajpet town",                "plots 800,1200,2400 Sq Ft",                     "Ready for registration",                     "Direct acess from the main road",                         "1t7JpVk_-6W3bQOj-ap3Gz8NZJXoRIHVN", "1fVrlF50jxiWo1TCS7n3T_ofKw39H8KXg"],
   ["P-2274",      0, "Near Coorg Golf Links",   "1 & 2 acers",              "Scenic Area",              "Tilled House",                      "167qnvtPCziHWdbNY4YFm3orXRwYRqtAF", "1DaVkaVAzJUKP2fbNk-1Zr6Pg6gqokaaf"],
   ["P-2273",      0, "South Coorg",             "31 Acer",                  "A-Z Facilities ",          "House + Labour Line",               "1fSIhh4mIwqkJvhZsoV8cFvwEBo6RjzF8", "1f2LoRFvTQ-WVyWLkB-RWjOXAM-qpJJHh"],
   ["P-2272",      0, "10 km from Virajpet",     "5.25 acers",               "Coffee & Areca",           "Labour Line",                       "153J-UxlarbP3iDdGed7_k-xihjsAMN1Y", "1D8EUo2kSfm8IK0hp7n8wpCKzvR8nP0tU"],	
