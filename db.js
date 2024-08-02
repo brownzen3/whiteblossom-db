@@ -8,16 +8,20 @@ const currentDate = "August, 2024"
 ////// PROPERTIES
 const db_forSale = [
 
-// Copy this example:
+// Example property entry:
 //["P-0000",      0, "LOCATION",                "AREA",                     "INFO",                     "BUILDINGS",                         "FOLDER_ID________________________", "PREVIEW_IMG_ID___________________"],
 
-  ["P-2277",      0, "North/South Coorg",                "120 Acers",                     "A- Z Facilities",                     "Labour line,Banglow,Irrigation tank,Drting Yard",                         "1hCYu1zjaDkVL2WRXTCCBmN1dNbBv6FkP", "1_fHYt5dFibQu9EXY2pEwTgcv-RXJbWgg"],
 
-  ["P-2276",      0, "Noerth coorg Naer to Napokal",                "18 acers",                     "Coffee plantation",                     "House with Labour Line & River adjecent to the estate",                         "1Cx3HZNv7NzXNnSNVibkLz0lAjAactNd7", "17dWlTGkUjUxvU_H4PJAO8mWiR_M7oqC2"],	
-  ["P-2275",      0, "1 KM from virajpet town",                "plots 800,1200,2400 Sq Ft",                     "Ready for registration",                     "Direct acess from the main road",                         "1t7JpVk_-6W3bQOj-ap3Gz8NZJXoRIHVN", "1fVrlF50jxiWo1TCS7n3T_ofKw39H8KXg"],
-  ["P-2274",      0, "Near Coorg Golf Links",   "1 & 2 acers",              "Scenic Area",              "Tilled House",                      "167qnvtPCziHWdbNY4YFm3orXRwYRqtAF", "1DaVkaVAzJUKP2fbNk-1Zr6Pg6gqokaaf"],
-  ["P-2273",      0, "South Coorg",             "31 Acer",                  "A-Z Facilities ",          "House + Labour Line",               "1fSIhh4mIwqkJvhZsoV8cFvwEBo6RjzF8", "1f2LoRFvTQ-WVyWLkB-RWjOXAM-qpJJHh"],
-  ["P-2272",      0, "10 km from Virajpet",     "5.25 acers",               "Coffee & Areca",           "Labour Line",                       "153J-UxlarbP3iDdGed7_k-xihjsAMN1Y", "1D8EUo2kSfm8IK0hp7n8wpCKzvR8nP0tU"],	
+// Paste example below / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+
+
+
+  ["P-2277",      0, "North/South Coorg",       "120 Acers",                "A-Z Facilities",           "Bungalow + Labour Line",            "1hCYu1zjaDkVL2WRXTCCBmN1dNbBv6FkP", "1_fHYt5dFibQu9EXY2pEwTgcv-RXJbWgg"],
+  ["P-2276",      0, "North Coorg",             "18 Acres",                 "Coffee Plantation",        "House + Labour Line & River Access","1Cx3HZNv7NzXNnSNVibkLz0lAjAactNd7", "17dWlTGkUjUxvU_H4PJAO8mWiR_M7oqC2"],	
+  ["P-2275",      0, "1km from Virajpet Town",  "800/1200/2400 Sq Ft Plots","Ready for registration",   "Direct access from main road",      "1t7JpVk_-6W3bQOj-ap3Gz8NZJXoRIHVN", "1fVrlF50jxiWo1TCS7n3T_ofKw39H8KXg"],
+  ["P-2274",      0, "Near Coorg Golf Links",   "1 & 2 Acres",              "Scenic Area",              "Tilled House",                      "167qnvtPCziHWdbNY4YFm3orXRwYRqtAF", "1DaVkaVAzJUKP2fbNk-1Zr6Pg6gqokaaf"],
+  ["P-2273",      0, "South Coorg",             "31 Acres",                 "A-Z Facilities ",          "House + Labour Line",               "1fSIhh4mIwqkJvhZsoV8cFvwEBo6RjzF8", "1f2LoRFvTQ-WVyWLkB-RWjOXAM-qpJJHh"],
+  ["P-2272",      0, "10km from Virajpet",      "5.25 Acres",               "Coffee & Areca",           "Labour Line",                       "153J-UxlarbP3iDdGed7_k-xihjsAMN1Y", "1D8EUo2kSfm8IK0hp7n8wpCKzvR8nP0tU"],	
   ["P-2271",      0, "North Coorg",             "14 Acers",                 "Hill-top View",            "No infracture",                     "14VEnfMeopFdo-pmP_AB1ZaUISszADwqj", "14lgyAyB7f5lA5YnOcJ1dRHA2bfqxTy5M"],
   ["P-2270",      0, "7km from Ponnempet",      "6 Acres",                  "Coffee & Areca",           "Tiled House",                       "1-4BhrZ8Du1zAcAgo0uMVhAm63KRVVcML", "1Ez-LXky45UnRg2na-nXF5PEokyBl3SKb"],
   ["P-2268",      0, "Near Bittangala",         "9 Acres",                  "Tabletop Location",        "2 Bed House",                       "1-3WNcPoDI2AljUJ9Dk_3trmD_8uc7zmM", "1-McAFIt7awUpLV1SQGhlTn2uNK8cjyse"],
@@ -48,12 +52,14 @@ const db_forSale = [
 ];
 
 
+
 ////// MORE PROPERTIES (visible under 'more') //
 const db_sold = [
   ["P-2255",      1, "5km from Gonikoppa",      "17  Acres",                "A to Z facilities",        "Labour Line",                       "1le68acyNKLSvQr0apEQvh94kliCUqh7P", "1G_J5ZNIcicLWkCV6tpSNBQvbXYZSeLD0"],
   ["P-2249",      1, "Kakkabe",                 "27 Acres",                 "Adjacent to River",        "Undeveloped Land",                  "1K-sXpIJdPaVu1fXjI0sTzfx_QYBWun5S", "1K8KjKzp_R7Ji8KJC41qYwr4pzzD7S3Yo"],
   ["P-2236",      2, "Virajpet-Murnad",         "14 Acres",                 "Adjacent to River, Gated", "Undeveloped Land",                  "1InAOSXRqRxTMdUO_y9CvjpmR1mo_SbxJ", "1WXR1RmGtr8DoFnBFvze63z4qstQUOSJr"],
 ];
+
 
 
 ////// UNPUBLISHED (not visible) //
