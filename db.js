@@ -9,10 +9,10 @@ const db_forSale = [
 
 //["P-0000",      0, "LOCATION",                "AREA",                     "INFO",                     "BUILDINGS",                         "FOLDER_ID________________________", "PREVIEW_IMG_ID___________________"],
 
-  ["P-2274",      0, "Near Coorg Golf links",                "1 & 2 acers",                     "Non cultivated with good view",                     "old tilled house",                         "167qnvtPCziHWdbNY4YFm3orXRwYRqtAF", "1DaVkaVAzJUKP2fbNk-1Zr6Pg6gqokaaf"]
-  ["P-2273",      0, "south coorg river side",                "31 Acer",                     "cultivated with A-Z Facilities ",                     "house,gowdon,labour line",                         "1fSIhh4mIwqkJvhZsoV8cFvwEBo6RjzF8", "1f2LoRFvTQ-WVyWLkB-RWjOXAM-qpJJHh"],
-  ["P-2272",      0, "10 km from Virajpet",                "5.25 acers",                     "Coffee and Areca plantation",                     "Labour line",                         "153J-UxlarbP3iDdGed7_k-xihjsAMN1Y", "1D8EUo2kSfm8IK0hp7n8wpCKzvR8nP0tU"],	
-  ["P-2271",      0, "North Coorg",                "14 Acers",                     "Cultivated with hill top view",                     "No infracture",                         "14VEnfMeopFdo-pmP_AB1ZaUISszADwqj", "14lgyAyB7f5lA5YnOcJ1dRHA2bfqxTy5M"],
+  ["P-2274",      0, "Near Coorg Golf Links",   "1 & 2 acers",              "Scenic Area",              "Tilled House",                      "167qnvtPCziHWdbNY4YFm3orXRwYRqtAF", "1DaVkaVAzJUKP2fbNk-1Zr6Pg6gqokaaf"],
+  ["P-2273",      0, "South Coorg",             "31 Acer",                  "A-Z Facilities ",          "House + Labour Line",               "1fSIhh4mIwqkJvhZsoV8cFvwEBo6RjzF8", "1f2LoRFvTQ-WVyWLkB-RWjOXAM-qpJJHh"],
+  ["P-2272",      0, "10 km from Virajpet",     "5.25 acers",               "Coffee & Areca",           "Labour Line",                       "153J-UxlarbP3iDdGed7_k-xihjsAMN1Y", "1D8EUo2kSfm8IK0hp7n8wpCKzvR8nP0tU"],	
+  ["P-2271",      0, "North Coorg",             "14 Acers",                 "Hill-top View",            "No infracture",                     "14VEnfMeopFdo-pmP_AB1ZaUISszADwqj", "14lgyAyB7f5lA5YnOcJ1dRHA2bfqxTy5M"],
   ["P-2270",      0, "7km from Ponnempet",      "6 Acres",                  "Coffee & Areca",           "Tiled House",                       "1-4BhrZ8Du1zAcAgo0uMVhAm63KRVVcML", "1Ez-LXky45UnRg2na-nXF5PEokyBl3SKb"],
   ["P-2268",      0, "Near Bittangala",         "9 Acres",                  "Tabletop Location",        "2 Bed House",                       "1-3WNcPoDI2AljUJ9Dk_3trmD_8uc7zmM", "1-McAFIt7awUpLV1SQGhlTn2uNK8cjyse"],
   ["P-2266",      0, "South Coorg",             "6 Acres",                  "Adjacent to river",        "No infrastructure",                 "1zG-ZgY7e4PlY5jbYKAj3UihoQY87FsZK", "1zMDP6yt47kjQ8QpW9pfSODjo74bbMQOU"],
