@@ -8,6 +8,8 @@ const db_forSale = [
 
 //["P-0000",      0, "LOCATION",                "AREA",                     "INFO",                     "BUILDINGS",                         "FOLDER_ID________________________", "PREVIEW_IMG_ID___________________"],
 
+  ["P-2272",      0, "10 km from Virajpet",                "5.25 acers",                     "Coffee and Areca plantation",                     "Labour line",                         "153J-UxlarbP3iDdGed7_k-xihjsAMN1Y", "1D8EUo2kSfm8IK0hp7n8wpCKzvR8nP0tU"],
+
   ["P-2271",      0, "North Coorg",                "14 Acers",                     "Cultivated with hill top view",                     "No infracture",                         "14VEnfMeopFdo-pmP_AB1ZaUISszADwqj", "14lgyAyB7f5lA5YnOcJ1dRHA2bfqxTy5M"],
   ["P-2270",      0, "7km from Ponnempet",      "6 Acres",                  "Coffee & Areca",           "Tiled House",                       "1-4BhrZ8Du1zAcAgo0uMVhAm63KRVVcML", "1Ez-LXky45UnRg2na-nXF5PEokyBl3SKb"],
   ["P-2268",      0, "Near Bittangala",         "9 Acres",                  "Tabletop Location",        "2 Bed House",                       "1-3WNcPoDI2AljUJ9Dk_3trmD_8uc7zmM", "1-McAFIt7awUpLV1SQGhlTn2uNK8cjyse"],
