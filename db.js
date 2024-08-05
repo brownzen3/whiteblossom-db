@@ -14,8 +14,8 @@ const db_forSale = [
 
 // Paste example below / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
 
-  ["P-2279",      0, "South Coorg 8KM Ponnempet",                "7acers coffe plantation +5 acers wet land",                     "300mtrs from main bus road",                     "No Infracture",                         "1LIsv1iqQaOMeR-oV0CqqpFY_Qb1X32gE?", "1dSFD66yqoOYkVvQnzXU-9SeK36oyCybN/view",
-  ["P-2278",      0, "South Coogr Near to Golf Club",                "8.25 coffee Plantation+3 acers wet land",                     "900mts from Highway adjecent to 40ft bus road",                     "Irrigation tank,dierct acess from main road",                         "1XLqcWMmW7QWuFB36OBD7k5MMGv-Db-z9", "1IHF42W8KS-X8uTiuXNQimHYYuMpCyFCV/view",
+  ["P-2279",      0, "South Coorg 8KM Ponnempet",                "7acers coffe plantation +5 acers wet land",                     "300mtrs from main bus road",                     "No Infracture",                         "1LIsv1iqQaOMeR-oV0CqqpFY_Qb1X32gE", "1dSFD66yqoOYkVvQnzXU-9SeK36oyCybN"],
+  ["P-2278",      0, "South Coogr Near to Golf Club",                "8.25 coffee Plantation+3 acers wet land",                     "900mts from Highway adjecent to 40ft bus road",                     "Irrigation tank,dierct acess from main road",                         "1XLqcWMmW7QWuFB36OBD7k5MMGv-Db-z9", "1IHF42W8KS-X8uTiuXNQimHYYuMpCyFCV"],
 
   ["P-2277",      0, "North/South Coorg",       "120 Acers",                "A-Z Facilities",           "Bungalow + Labour Line",            "1hCYu1zjaDkVL2WRXTCCBmN1dNbBv6FkP", "1_fHYt5dFibQu9EXY2pEwTgcv-RXJbWgg"],
   ["P-2276",      0, "North Coorg",             "18 Acres",                 "Coffee Plantation",        "House + Labour Line & River Access","1Cx3HZNv7NzXNnSNVibkLz0lAjAactNd7", "17dWlTGkUjUxvU_H4PJAO8mWiR_M7oqC2"],	
