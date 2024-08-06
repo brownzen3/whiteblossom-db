@@ -16,7 +16,7 @@ const db_forSale = [
 
 
   ["P-2279",      0, "South Coorg",                "7 + 5 Acres",              "Coffee + Wet Land",        "No infracture",                     "1LIsv1iqQaOMeR-oV0CqqpFY_Qb1X32gE", "1dSFD66yqoOYkVvQnzXU-9SeK36oyCybN"],
-  ["P-2278",      0, "South Coorg Near Golf Club", "8.25 + 3 Acres",           "Coffee + Wet Land",        "Irrigation tank & direct access",   "1XLqcWMmW7QWuFB36OBD7k5MMGv-Db-z9", "1IHF42W8KS-X8uTiuXNQimHYYuMpCyFCV"],
+  ["P-2278",      0, "South Coorg Near Golf Club", "8.25 + 3 Acres",           "Coffee + Wet Land",        "Irrigation tank & direct access",   "16q-Vm2H4iio25cDAgltfwRIQmCMW7grS", "1IHF42W8KS-X8uTiuXNQimHYYuMpCyFCV"],
   ["P-2277",      0, "North/South Coorg",          "120 Acers",                "A-Z Facilities",           "Bungalow + Labour Line",            "1hCYu1zjaDkVL2WRXTCCBmN1dNbBv6FkP", "1_fHYt5dFibQu9EXY2pEwTgcv-RXJbWgg"],
   ["P-2276",      0, "North Coorg",                "18 Acres",                 "Coffee Plantation",        "House + Labour Line & river access","1Cx3HZNv7NzXNnSNVibkLz0lAjAactNd7", "17dWlTGkUjUxvU_H4PJAO8mWiR_M7oqC2"],	
   ["P-2275",      0, "1km from Virajpet Town",     "800/1200/2400 Sq Ft Plots","Ready for registration",   "Direct access from main road",      "1t7JpVk_-6W3bQOj-ap3Gz8NZJXoRIHVN", "1fVrlF50jxiWo1TCS7n3T_ofKw39H8KXg"],
