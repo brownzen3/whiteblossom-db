@@ -13,7 +13,7 @@ const db_forSale = [
 
 
 // Paste example below / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
-
+  ["P-2280",      0, "15 km from Coorg Golf Club",                "8.5 acers",                     "Non cultivated Table top view",                     "No infrasture",                         "1Biyi5ivfmD1r5Mo3bz6afkPNSdPlnuIi", "1nakaP02HtNTxyxe_t3l0mlQAoIfAp2fk/view"],
 
   ["P-2279",      0, "South Coorg",                "7 + 5 Acres",              "Coffee + Wet Land",        "No infracture",                     "1LIsv1iqQaOMeR-oV0CqqpFY_Qb1X32gE", "1dSFD66yqoOYkVvQnzXU-9SeK36oyCybN"],
   ["P-2278",      0, "South Coorg Near Golf Club", "8.25 + 3 Acres",           "Coffee + Wet Land",        "Irrigation tank & direct access",   "16q-Vm2H4iio25cDAgltfwRIQmCMW7grS", "1IHF42W8KS-X8uTiuXNQimHYYuMpCyFCV"],
