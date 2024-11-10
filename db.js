@@ -12,8 +12,9 @@ const db_forSale = [
 //["P-0000",      0, "LOCATION",                   "AREA",                     "INFO",                     "BUILDINGS",                         "FOLDER_ID________________________", "PREVIEW_IMG_ID___________________"],
 
 // Paste example below / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
- ["P-2283",      0, "North Coorg",                   "14 Acers",                     "Coffe & Pepper plantation",                     "Labour Line",                         "1HTTfSvDFXsSF9nC5rY_8bnHwtdCOrGjf", "1a5bj8s3AYjN1Vj313wkCADmfmJy73geO"], 
+
 	
+  ["P-2283",      0, "North Coorg",                "14 Acers",                 "Coffee & Pepper Plantation", "Labour Line",                     "1HTTfSvDFXsSF9nC5rY_8bnHwtdCOrGjf", "1a5bj8s3AYjN1Vj313wkCADmfmJy73geO"], 
   ["P-2282",      0, "South Coorg Coorg",          "9 Acers",                  "Coffee Plantation ",       "Old tilled house",                  "1CpafSXrVxx1aZkhUP0F3zFcOIcyFfNoh", "1ZNaEzVgPeRjVDWPjSDqLqJZOCV8I5rIV"],
   ["P-2281",      0, "South Coorg",                "10.5 Acers",               "Coffee Plantation",        "No infracture",                     "12x6B14-nPMkJzT8VgsZMPXpi4IE5jKhz", "1W8U-09U_pqO9kt7ongVg-RdNz0YUUgiR"],
   ["P-2280",      0, "15km from Coorg Golf Club",  "8.5 Acers",                "Hill-top view",            "Non cultivated, 6km from NH",       "1Biyi5ivfmD1r5Mo3bz6afkPNSdPlnuIi", "1nakaP02HtNTxyxe_t3l0mlQAoIfAp2fk"],
