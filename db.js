@@ -1,5 +1,5 @@
 ////// DATE OF LAST UPDATE (Month, Year) //
-const currentDate = "August, 2024"
+const currentDate = "November, 2024"
 
 
 
@@ -12,6 +12,7 @@ const db_forSale = [
 //["P-0000",      0, "LOCATION",                   "AREA",                     "INFO",                     "BUILDINGS",                         "FOLDER_ID________________________", "PREVIEW_IMG_ID___________________"],
 
 // Paste example below / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+  ["P-2282",      0, "South Coorg Coorg",                   "9 acers",                     "coffe plantation ",                     "Old tilled house",                         "1CpafSXrVxx1aZkhUP0F3zFcOIcyFfNoh?", "1ZNaEzVgPeRjVDWPjSDqLqJZOCV8I5rIV/view?"],
 
 
   ["P-2281",      0, "South Coorg",                "10.5 Acers",               "Coffee Plantation",        "No infracture",                     "12x6B14-nPMkJzT8VgsZMPXpi4IE5jKhz", "1W8U-09U_pqO9kt7ongVg-RdNz0YUUgiR"],
